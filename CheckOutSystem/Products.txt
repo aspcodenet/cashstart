@@ -1,0 +1,4 @@
+﻿100;Telefon;10
+200;Tröja;5
+300;Banan;50
+400;Salt;10
